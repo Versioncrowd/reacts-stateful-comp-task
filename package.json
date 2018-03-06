@@ -5,12 +5,13 @@
   "homepage": "https://versioncrowd.github.io/reacts-stateful-comp-task/",
   "dependencies": {
     "bootstrap": "^4.0.0",
+    "gh-pages": "^1.1.0",
+    "gh-pages-deploy": "^0.4.2",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.1",
     "react-transition-group": "^2.2.1",
-    "reactstrap": "^4.8.0",
-    "gh-pages": "^1.1.0"
+    "reactstrap": "^4.8.0"
   },
   "scripts": {
     "start": "react-scripts start",
