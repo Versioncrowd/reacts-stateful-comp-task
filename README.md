@@ -1,7 +1,7 @@
 An exercise using React with a stateful Component. 
 https://versioncrowd.github.io/reacts-stateful-comp-task/
 
-Based on the following brief (by our teacher https://github.com/foobaroo): 
+Based on the following brief (by our teacher Jan Schulz @ Devugees DCI Web-Dev Course >> https://github.com/foobaroo): 
 Create an app with two stateful components
 1. Create a new app with create-react-app.
 2. The app component consists of a left and a right div. In the left div, there is a button “New Image” and
